@@ -21,6 +21,10 @@ Este projeto é um quiz, feito em ReactJS. Intuito de por em prática alguns con
   <img alt="Axios" src="https://img.shields.io/badge/Using-Axios-blue">
 </a>
 
+- <a href="https://vitejs.dev/">
+  <img alt="Vite" src="https://img.shields.io/badge/Using-Vite-blue">
+</a>
+
 
 ### Rodando a aplicação web
 
